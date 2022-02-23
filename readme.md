@@ -1,3 +1,3 @@
 Welcome to SHE 
 
-Crypto Curency
+Crypto Currency
